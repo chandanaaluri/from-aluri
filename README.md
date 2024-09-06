@@ -23,6 +23,7 @@ I love watching cricket because i feel **entertained** and i relieve **stress** 
 ### Restaurants
 
 Here are some of my favourite restaurants to eat at:
+
 |Restaurant | Reason to recommend | Location |
 
 |-----------| -------------------- |----------|
