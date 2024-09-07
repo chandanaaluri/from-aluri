@@ -24,13 +24,13 @@ I love watching cricket because i feel **entertained** and i relieve **stress** 
 
 Here are some of my favourite restaurants to eat at:
 
-| Restaurant       | Reason to recommend                                  | Location   |
+| Restaurant       | Reason to recommend            | Location   |
 
-| :----------------| :--------------------------------------------------: | ---------: |
+| :----------------| :----------------------------: | ---------: |
 
-| Paradise Biryani | Reowned for it's rich,authentic hyderabadi biryani   | Hyderabad  |
+| Paradise Biryani | authentic hyderabadi biryani   | Hyderabad  |
 
-| Biryani by kilo  | Made with traditional cooking methods                | India      |
+| Biryani by kilo  | traditional cooking methods    | India      |
 
-| Ravi's Biryani   | Spicy and auromatic                                  | Chennai    |
+| Ravi's Biryani   | Spicy and auromatic            | Chennai    |
 
