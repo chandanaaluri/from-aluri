@@ -42,4 +42,15 @@ _-unkown_
 Because he was outstanding in his field!"
 _-unkown_
 
+---
+### Code
+
+SQL code from 17th snippet.
+
+```SQL
+SELECT column_name(s)
+FROM table1
+LEFT JOIN table2
+ON table1.column_name = table2.column_name;
+
 
