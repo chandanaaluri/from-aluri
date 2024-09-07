@@ -24,13 +24,12 @@ I love watching cricket because i feel **entertained** and i relieve **stress** 
 
 Here are some of my favourite restaurants to eat at:
 
-| Restaurant       | Reason to recommend            | Location   |
 
-| :----------------| :----------------------------: | ---------: |
+| Restaurant        | Why I Recommend It     | Location          |
+|-------------------|------------------------|-------------------|
+| Joe's Pizza        | Best thin crust         | New York, NY      |
+| Luigi's Pizzeria   | Great family atmosphere | Chicago, IL       |
+| Tony's Pizza       | Amazing toppings        | Los Angeles, CA   |
+| Mario's Pizzeria   | Best pepperoni          | Houston, TX       |
 
-| Paradise Biryani | authentic hyderabadi biryani   | Hyderabad  |
-
-| Biryani by kilo  | traditional cooking methods    | India      |
-
-| Ravi's Biryani   | Spicy and auromatic            | Chennai    |
 
