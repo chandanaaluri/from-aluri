@@ -31,5 +31,15 @@ Here are some of my favourite restaurants to eat at:
 | Biryani by Kilo    | Traditional Methods    | India             |
 | Ravi's Biryani     | Spicy and Auromatic    | Chennai           |
 
+---
+### Quotes
+
+> "Why don’t scientists trust atoms?
+Because they make up everything!"
+_-unkown_
+
+> "Why did the scarecrow win an award?
+Because he was outstanding in his field!"
+_-unkown_
 
 
