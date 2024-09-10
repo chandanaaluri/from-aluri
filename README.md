@@ -47,6 +47,8 @@ _-unkown_
 
 SQL code from 17th snippet.
 
+[Link of snippet](https://code.pieces.app/collections/sql)
+
 ```SQL
 SELECT column_name(s)
 FROM table1
